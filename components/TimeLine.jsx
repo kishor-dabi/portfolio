@@ -24,7 +24,7 @@ const TimeLine = () => {
       id: 1,
       title: "Senior Software developer",
       duration: "May 2021 - Sept 2023",
-      org: "Coding Blocks",
+      org: "RWS Moravia",
       skills: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
       class:
         "bg-green-100 text-green-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-green-900 dark:text-green-300",
