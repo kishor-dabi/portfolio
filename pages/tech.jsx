@@ -15,7 +15,7 @@ const tech = () => {
   const data = [
     {
       title: "Angular",
-      id: 11,
+      id: 0,
       main: "/angular.png",
       desc: "A privacy focused browser used to block ads and extra pops.",
       tag: "develop",
@@ -24,7 +24,7 @@ const tech = () => {
     },
     {
       title: "Node js",
-      id: 8,
+      id: 1,
       main: "/node.png",
       desc: "Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting.",
       tag: "develop",
@@ -33,7 +33,7 @@ const tech = () => {
     },
     {
       title: "Express",
-      id: 9,
+      id: 2,
       main: "/express.png",
       desc: "A boon for webapp designers, from wireframe to animation, it has it all.",
       tag: "develop",
@@ -42,7 +42,7 @@ const tech = () => {
     },
     {
       title: "Mongo DB",
-      id: 9,
+      id: 4,
       main: "/mongo.png",
       desc: "MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON-like documents with optional schemas.",
       tag: "DB",
@@ -51,7 +51,7 @@ const tech = () => {
     },
     {
       title: "SQL",
-      id: 9,
+      id: 3,
       main: "/sql.png",
       desc: "Structured Query Language is a domain-specific language used to manage data, especially in a relational database management system. It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.",
       tag: "DB",
@@ -60,7 +60,7 @@ const tech = () => {
     },
     {
       title: "AWS",
-      id: 9,
+      id: 5,
       main: "/aws.png",
       desc: "Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis.",
       tag: "DB",
@@ -69,7 +69,7 @@ const tech = () => {
     },
     {
       title: "VS Code",
-      id: 0,
+      id: 6,
       main: "/icons/vscode-original.svg",
       desc: "Best coding IDE to ever exist, comes with tons of customization",
       tag: "code",
@@ -78,7 +78,7 @@ const tech = () => {
     },
     {
       title: "JavaScript",
-      id: 1,
+      id: 7,
       main: "/icons/javascript-original.svg",
       desc: "A lightweight, interpreted, or just-in-time compiled programming language with first-class functions.",
       tag: "code",
@@ -87,7 +87,7 @@ const tech = () => {
     },
     {
       title: "TypeScript",
-      id: 2,
+      id: 8,
       main: "/icons/typescript-plain.svg",
       desc: "SuperScript of Javascript, made by microsoft with robust type safety.",
       tag: "code",
@@ -96,7 +96,7 @@ const tech = () => {
     },
     {
       title: "React JS",
-      id: 3,
+      id: 9,
       main: "/icons/react-original.svg",
       desc: "A free and open-source front-end JavaScript library for building user interfaces based on components",
       tag: "develop",
@@ -105,7 +105,7 @@ const tech = () => {
     },
     {
       title: "Next JS",
-      id: 4,
+      id: 10,
       main: "/icons/nextjs-original.svg",
       desc: "An open-source web development framework providing React-based web applications.",
       tag: "develop",
@@ -114,7 +114,7 @@ const tech = () => {
     },
     {
       title: "Tailwind CSS",
-      id: 5,
+      id: 11,
       main: "/icons/tailwindcss-plain.svg",
       desc: "A utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
       tag: "design",
@@ -123,7 +123,7 @@ const tech = () => {
     },
     {
       title: "Material UI",
-      id: 6,
+      id: 12,
       main: "/icons/materialui-original.svg",
       desc: "A comprehensive suite of UI tools to help you ship new features faster.",
       tag: "develop",
@@ -132,7 +132,7 @@ const tech = () => {
     },
     {
       title: "SASS",
-      id: 7,
+      id: 13,
       main: "/icons/sass-original.svg",
       desc: "CSS with superpowers. The most powerful professional grade CSS extension language in the world.",
       tag: "design",
@@ -142,7 +142,7 @@ const tech = () => {
    
     {
       title: "GitHub",
-      id: 10,
+      id: 14,
       main: "/icons/github-original.svg",
       desc: "A developer's go-to platform for collaborating and showcasing their code.",
       tag: "platform",
