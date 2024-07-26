@@ -13,6 +13,23 @@ const ProjectCard = () => {
       link: "https://development.invenco.io/",
       target: "_self",
     },
+    
+    {
+      id: 7,
+      image,
+      title: "Financial Accounting Standards Board",
+      description: "",
+      link: "https://www.fasb.org",
+      target: "_self",
+    },
+    {
+      id: 8,
+      image,
+      title: "Financial Accounting Foundation",
+      description: "",
+      link: "https://accountingfoundation.org/",
+      target: "_self",
+    },
     {
       id: 2,
       image,
